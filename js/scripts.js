@@ -6,6 +6,8 @@
 //
 // Scripts
 // 
+//Pramukh Tech use this from startbootstrap
+
 
 window.addEventListener('DOMContentLoaded', event => {
 
